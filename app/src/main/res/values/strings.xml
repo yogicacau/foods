@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Foods</string>
+    <string name="makanan_tradisional_id">Makanan Tradisional Indonesia</string>
+    <string name="detail_makanan">Detail</string>
+    <string name="about">About</string>
+    <string name="photo">Photo</string>
+    <string name="my_toolbar">About</string>
+    <string name="name">Yogi Surya Nugraha</string>
+    <string name="email">yogisuryanugraha23@gmail.com</string>
+    <string name="title_activity_about">About</string>
+</resources>
